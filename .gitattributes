@@ -1,0 +1,10 @@
+# Remove Jupyter Notebooks and include/ from language listing
+*.ipynb linguist-vendored
+include/ linguist-vendored
+
+# Mark doc/ directory as documentation
+doc/ linguist-documentation
+
+# Exclude results/ and temp/ from language listing and hide from diffs
+results/ linguist-generated
+temp/ linguist-generated
