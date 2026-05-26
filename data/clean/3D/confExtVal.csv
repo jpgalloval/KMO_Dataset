@@ -1,0 +1,15 @@
+Input directory,/home/joaopedroval/OptMol/KMO/HF_K/Teste
+X matrix,Xsel.csv
+y matrix,atividadekmo.txt
+Test set,8
+Number of latent variables for the model,
+Output directory,/home/joaopedroval/OptMol/KMO/HF_K/Teste
+Output external validation file,ext_val.csv
+Output cross validation training set file,cv_ext_val.csv
+Output training set X matrix,Xtrain.csv
+Output training set y matrix,ytrain.csv
+Output test set X matrix,Xtest.csv
+Output test set y matrix,ytest.csv
+Autoscale,yes
+Lennard-Jones data transformation,yes
+Type of external validation,2
